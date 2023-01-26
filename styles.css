@@ -1,13 +1,10 @@
-/* this is called external styling and 
-it is better than internal/inline styling */
-
 h1 {
   color: red;
   background-color: blue;
   text-align: center;
+	font-size: 39px
 }
 
-/* this styles anchor tag in my html */
 a {
   color: green;
   font-size: 50px;
